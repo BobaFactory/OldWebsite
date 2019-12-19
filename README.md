@@ -1,2 +1,2 @@
 # WebApp
-# This REPO will be used to develop the Web Application
+# This REPO contains all the files used for the website for CS 329E
